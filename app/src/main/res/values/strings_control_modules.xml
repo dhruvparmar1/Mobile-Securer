@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="control_module_title_wifi_hotspot">Wifi Hotspot</string>
+    <string name="control_module_desc_wifi_hotspot">
+        Turn hotspot on and off. Check if hotspot is enabled.
+        \nThe hotspot must be preconfigured in the system settings.
+    </string>
+
+    <string name="control_module_title_mobile_data">Mobile Data</string>
+    <string name="control_module_desc_mobile_data">
+        Manage mobile data (internet connection). Check if mobile data is enabled.
+    </string>
+
+    <string name="control_module_title_battery">Battery</string>
+    <string name="control_module_desc_battery">
+        Get level of the devices battery and check if it is loading.
+    </string>
+
+    <string name="control_module_title_location">Location</string>
+    <string name="control_module_desc_location">
+        Get location of this device.
+    </string>
+
+    <string name="control_module_title_wifi">Wifi</string>
+    <string name="control_module_desc_wifi">
+        Turn wifi on and off. Check if wifi is enabled.
+    </string>
+
+    <string name="control_module_title_bluetooth">Bluetooth</string>
+    <string name="control_module_desc_bluetooth">
+        Turn bluetooth on and off. Check if bluetooth is enabled.
+    </string>
+
+    <string name="control_module_title_audio">Audio</string>
+    <string name="control_module_desc_audio">
+        Manage volume of ringtone, music and more.
+    </string>
+    <string name="control_module_param_desc_audio">
+        audio types: ring, music, alarm, notification, system, phonecall, dtmf
+        \nvolume: index (e.g. 6), percentage (e.g. 90%), vibrate or silent (only for audio type ring)
+    </string>
+
+    <string name="control_module_title_audio_recording">Audio Recording</string>
+    <string name="control_module_desc_audio_recording">
+        Record audio with axet\'s audio recorder app.
+        \nRequires com.github.axet.audiorecorder app.
+        \n
+        \nThe app can be downloaded from Google Play or F-Droid.
+        https://f-droid.org/packages/com.github.axet.audiorecorder
+    </string>
+
+    <string name="control_module_title_display">Display</string>
+    <string name="control_module_desc_display">
+        Manage the display\'s brightness and state (on or off). Set time, after which the display
+        is turned off when the user is not interacting with the phone.
+    </string>
+    <string name="control_module_param_desc_display">
+        brightness: percentage (e.g. 50%) or auto
+        \ntimeout: time, after which the display is turned off (e.g. 30min, 10.5s, 500ms)
+    </string>
+
+    <string name="control_module_title_camera">Camera</string>
+    <string name="control_module_desc_camera">
+        Take picture with predefined or individual settings.
+    </string>
+    <string name="control_module_param_desc_camera">
+        settings: individual settings for this capture
+        possible options: front cam, back cam, cam [index], flash on, flash off, flash auto
+    </string>
+</resources>

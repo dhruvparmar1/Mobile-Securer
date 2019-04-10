@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="log_title_com_exec_failed">Failed to execute command (%1$s)</string>
+    <string name="log_title_com_exec_success"> Successfully executed command (%1$s) </string>
+    <string name="log_title_sms_processing_failed"> Failed to process incoming sms </string>
+    <string name="log_title_sms_receiver_started">Sms receiver started</string>
+    <string name="log_title_sms_receiver_stopped">Sms receiver stopped</string>
+    <string name="log_title_after_boot_receiver_start_failed">Failed to start sms receiver after boot</string>
+    <string name="log_title_reply_exec_result_failed">Failed to send command execution reply to sender</string>
+    <string name="log_title_reply_exec_result_try_sending">Try to send result message to phone (%1$s)</string>
+    <string name="log_title_reply_exec_result_sent">Result message has been sent to phone (%1$s)</string>
+
+    <string name="log_summary_com_exec_failed_perm_denied">
+        android permissions denied
+    </string>
+    <string name="log_summary_com_exec_failed_module_disabled">
+        module (%1$s) is disabled
+    </string>
+    <string name="log_summary_com_exec_failed_phone_not_granted">
+        phone (%1$s) is not allowed to use the module (%2$s)
+    </string>
+    <string name="log_summary_com_exec_failed_phone_incompatible">
+        module (%1$s) is not compatible
+    </string>
+    <string name="log_summary_com_exec_failed_unexpected">
+        an unexpected error occurred
+    </string>
+    <string name="log_summary_after_boot_receiver_start_failed_unexpected">
+        an unexpected error occurred
+    </string>
+    <string name="log_summary_reply_exec_result_failed_unexpected">
+        an unexpected error occurred
+    </string>
+</resources>

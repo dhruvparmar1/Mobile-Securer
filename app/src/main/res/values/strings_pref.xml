@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_title_receiver_autostart">Autostart receiver</string>
+    <string name="pref_summary_receiver_autostart">
+        Start sms receiver on system startup
+    </string>
+
+    <string name="pref_title_notification_sms_commands_executed"> Commands executed notification</string>
+    <string name="pref_summary_notification_sms_commands_executed">
+        Show notification after remote commands have been executed
+    </string>
+
+    <string name="pref_title_send_result_sms_back">Reply to sender with result message</string>
+    <string name="pref_summary_send_result_sms_back">
+        Send a result message back to sender-phone after commands were executed.
+    </string>
+
+    <string name="pref_title_receiver_start_foreground">Show permanent notification</string>
+    <string name="pref_summary_receiver_start_foreground">
+        Show a permanent notification while the receiver service is running.
+    </string>
+</resources>

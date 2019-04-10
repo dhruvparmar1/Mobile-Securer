@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mobile Securer 2.iml" filepath="$PROJECT_DIR$/Mobile Securer 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleSmsRemote.iml" filepath="$PROJECT_DIR$/SimpleSmsRemote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tranquvis.directorypicker/tranquvis.directorypicker.iml" filepath="$PROJECT_DIR$/tranquvis.directorypicker/tranquvis.directorypicker.iml" />
+    </modules>
+  </component>
+</project>
